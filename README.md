@@ -30,7 +30,7 @@ Soy **Ingeniero de Sistemas** y **Desarrollador Full-stack** apasionado por cons
 
 ---
 
-### 📩 ¡Hablemos!
+###  ¡Hablemos!
 
 Estoy siempre abierto a colaborar en proyectos interesantes y a nuevas oportunidades profesionales.
 
