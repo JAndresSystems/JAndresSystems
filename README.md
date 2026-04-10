@@ -28,7 +28,7 @@ He trabajado con un amplio stack tecnológico, desde lenguajes de bajo nivel has
 
 **Especialidad en Inteligencia Artificial**
 *   **Arquitecturas:** Agentic RAG, Agentes Autónomos, Grafos de Estado (LangGraph).
-*   **Modelos (LLMs):** Experiencia integrando y optimizando flujos con **Gemini, Claude, GPT y Gemma**.
+*   **Modelos (LLMs):** Experiencia integrando y optimizando flujos con **Gemini, Claude, GPT y Gemma...**.
 *   **Enfoque:** Procesamiento multimodal y automatización de procesos complejos.
 
 ---
