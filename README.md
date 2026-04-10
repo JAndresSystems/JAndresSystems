@@ -2,9 +2,9 @@
 
 Soy **Ingeniero de Sistemas** y **Desarrollador Full-stack** apasionado por construir soluciones tecnológicas completas e inteligentes. Mi enfoque principal es generar valor real a través de código eficiente y arquitecturas escalables.
 
-- 🔭 **Actualmente trabajando en:** El desarrollo de proyectos profesionales que integran arquitecturas de agentes de IA y aplicaciones web de alto rendimiento.
-- 🌱 **En constante evolución:** Adquiriendo nuevos conocimientos en Cloud Computing, Deep Learning y nuevas herramientas para mantenerme a la vanguardia técnica.
-- 🚀 **Mi propósito:** Transformar problemas complejos en soluciones técnicas de excelencia.
+-  **Actualmente trabajando en:** El desarrollo de proyectos profesionales que integran arquitecturas de agentes de IA y aplicaciones web de alto rendimiento.
+-  **En constante evolución:** Adquiriendo nuevos conocimientos en Cloud Computing, Deep Learning y nuevas herramientas para mantenerme a la vanguardia técnica.
+-  **Mi propósito:** Transformar problemas complejos en soluciones técnicas de excelencia.
 
 ---
 
