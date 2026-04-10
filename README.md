@@ -34,7 +34,7 @@ Soy **Ingeniero de Sistemas** y **Desarrollador Full-stack** apasionado por cons
 
 Estoy siempre abierto a colaborar en proyectos interesantes y a nuevas oportunidades profesionales.
 
-- **LinkedIn:** [Tu Nombre en LinkedIn](https://www.linkedin.com/in/tu-perfil/)
+- **LinkedIn:** [Tu Nombre en LinkedIn](https://www.linkedin.com/in/jairo-andres-487363303/)
 - **Email:** [jairoandresme@gmail.com]
 - **Ubicación:** Colombia 🇨🇴
 
